@@ -30,7 +30,7 @@
    &kp LEFT_GUI     &kp LALT &kp LGUI &mo 3  &mt LCTRL BSLH  &kp BKSP  &kp DEL   &kp RET  &kp SPACE &kp RALT  &kp LEFT  &kp DOWN  &kp UP   &kp RIGHT
             >;
 
-        }
+        };
         
         lower_layer {
 // --------------------------------------------------------------------------------------------------------------------------
